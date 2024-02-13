@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="textView_billAmountHint">$0.00</string>
+    <string name="textViewPercent">0%</string>
+    <string name="tip">Tip</string>
+    <string name="tipTextView">$0.00</string>
+    <string name="total">Total</string>
+    <string name="textView_BillAmount">$0.00</string>
+    <string name="icon">The drop down menu next to the how many people text is used to select the
+        amount of people you wish to split the bill with. please click the downward arrow and select
+        the amount of people at the table. If it is you dining alone leave the value at the default: 1
+    </string>
+    <string name="share">shareString</string>
+
+
+    <string-array name="num_People">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+
+
+</resources>
